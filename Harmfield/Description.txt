@@ -1,0 +1,1 @@
+The Harmfield class defines a configurable harmful area in Unreal Engine 5 that can be activated to deal damage to actors within its bounds. It manages visual and audio effects, collision detection, and damage application, based on customizable parameters, such as class exclusion.

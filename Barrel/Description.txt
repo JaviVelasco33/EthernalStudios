@@ -1,0 +1,1 @@
+This class contains the implementation of the AA_Barrel class and its variants. The barrel is an explosive prop that triggers a harmful field (Harmfield) upon destruction. It includes customized configurations for different types, like the Fire Barrel, which features specific visual and sound effects.
